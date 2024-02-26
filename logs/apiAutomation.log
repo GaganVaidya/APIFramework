@@ -1,0 +1,58 @@
+00:06:54.493 [main] INFO  api.test.UserTest - <----------- Create User ---------->
+00:07:01.364 [main] INFO  api.test.UserTest - <---------- User Created ---------->
+00:07:01.544 [main] INFO  api.test.UserTest - <----------- Get User Info ---------->
+00:07:03.855 [main] INFO  api.test.UserTest - <----------- Update User ---------->
+00:07:05.406 [main] INFO  api.test.UserTest - <----------- User Updated ---------->
+00:07:06.951 [main] INFO  api.test.UserTest - <----------- Get Updated User Info ---------->
+00:07:06.994 [main] INFO  api.test.UserTest - <----------- Delete User ---------->
+00:07:08.492 [main] INFO  api.test.UserTest - <----------- User Deleted ---------->
+16:09:10.601 [main] INFO  api.test.UserTestWithPropertiesFile - <----------- Create User ---------->
+16:09:16.729 [main] INFO  api.test.UserTestWithPropertiesFile - <----------- Get User Info ---------->
+16:09:19.172 [main] INFO  api.test.UserTestWithPropertiesFile - <----------- Update User ---------->
+16:09:22.137 [main] INFO  api.test.UserTestWithPropertiesFile - <----------- User Updated ---------->
+16:09:26.329 [main] INFO  api.test.UserTestWithPropertiesFile - <----------- Delete User ---------->
+16:09:34.047 [main] INFO  api.test.UserTestWithPropertiesFile - <----------- User Deleted ---------->
+16:15:13.726 [main] INFO  api.test.UserTestWithPropertiesFile - <----------- Create User ---------->
+16:15:21.342 [main] INFO  api.test.UserTestWithPropertiesFile - <----------- Get User Info ---------->
+16:16:22.988 [main] INFO  api.test.UserTestWithPropertiesFile - <----------- Update User ---------->
+16:16:24.204 [main] INFO  api.test.UserTestWithPropertiesFile - <----------- User Updated ---------->
+16:16:25.431 [main] INFO  api.test.UserTestWithPropertiesFile - <----------- Delete User ---------->
+16:16:26.494 [main] INFO  api.test.UserTestWithPropertiesFile - <----------- User Deleted ---------->
+16:18:11.500 [main] INFO  api.test.UserTest - <----------- Create User ---------->
+16:18:19.851 [main] INFO  api.test.UserTest - <---------- User Created ---------->
+16:18:19.957 [main] INFO  api.test.UserTest - <----------- Get User Info ---------->
+16:18:22.392 [main] INFO  api.test.UserTest - <----------- Update User ---------->
+16:18:33.626 [main] INFO  api.test.UserTest - <----------- User Updated ---------->
+16:18:37.384 [main] INFO  api.test.UserTest - <----------- Get Updated User Info ---------->
+16:18:37.418 [main] INFO  api.test.UserTest - <----------- Delete User ---------->
+16:18:41.594 [main] INFO  api.test.UserTest - <----------- User Deleted ---------->
+16:19:04.909 [main] INFO  api.test.UserTest - <----------- Create User ---------->
+16:19:18.238 [main] INFO  api.test.UserTest - <---------- User Created ---------->
+16:19:18.330 [main] INFO  api.test.UserTest - <----------- Get User Info ---------->
+16:19:34.230 [main] INFO  api.test.UserTest - <----------- Update User ---------->
+16:19:39.190 [main] INFO  api.test.UserTest - <----------- User Updated ---------->
+16:19:41.968 [main] INFO  api.test.UserTest - <----------- Get Updated User Info ---------->
+16:19:42.023 [main] INFO  api.test.UserTest - <----------- Delete User ---------->
+16:19:46.015 [main] INFO  api.test.UserTest - <----------- User Deleted ---------->
+17:02:52.479 [main] INFO  api.test.UserTest - <----------- Create User ---------->
+17:02:56.230 [main] INFO  api.test.UserTest - <---------- User Created ---------->
+17:02:56.324 [main] INFO  api.test.UserTest - <----------- Get User Info ---------->
+17:02:57.695 [main] INFO  api.test.UserTest - <----------- Update User ---------->
+17:02:58.790 [main] INFO  api.test.UserTest - <----------- User Updated ---------->
+17:02:59.919 [main] INFO  api.test.UserTest - <----------- Get Updated User Info ---------->
+17:02:59.942 [main] INFO  api.test.UserTest - <----------- Delete User ---------->
+17:03:01.233 [main] INFO  api.test.UserTest - <----------- User Deleted ---------->
+22:43:30.688 [main] INFO  api.test.UserTestWithPropertiesFile - <----------- Create User ---------->
+22:43:40.587 [main] INFO  api.test.UserTestWithPropertiesFile - <----------- Get User Info ---------->
+22:43:47.681 [main] INFO  api.test.UserTestWithPropertiesFile - <----------- Update User ---------->
+22:43:52.057 [main] INFO  api.test.UserTestWithPropertiesFile - <----------- User Updated ---------->
+22:44:06.584 [main] INFO  api.test.UserTestWithPropertiesFile - <----------- Delete User ---------->
+22:44:20.842 [main] INFO  api.test.UserTestWithPropertiesFile - <----------- User Deleted ---------->
+22:46:47.568 [main] INFO  api.test.UserTest - <----------- Create User ---------->
+22:47:15.561 [main] INFO  api.test.UserTest - <---------- User Created ---------->
+22:47:15.728 [main] INFO  api.test.UserTest - <----------- Get User Info ---------->
+22:47:18.854 [main] INFO  api.test.UserTest - <----------- Update User ---------->
+22:47:25.840 [main] INFO  api.test.UserTest - <----------- User Updated ---------->
+22:48:00.762 [main] INFO  api.test.UserTest - <----------- Get Updated User Info ---------->
+22:48:00.835 [main] INFO  api.test.UserTest - <----------- Delete User ---------->
+22:48:12.239 [main] INFO  api.test.UserTest - <----------- User Deleted ---------->

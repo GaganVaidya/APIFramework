@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-26T19:30:08 IST" name="Default suite" finished-at="2024-02-26T19:30:18 IST" duration-ms="10446">
+    <groups>
+    </groups>
+    <test started-at="2024-02-26T19:30:08 IST" name="Default test" finished-at="2024-02-26T19:30:18 IST" duration-ms="10446">
+      <class name="api.test.DataProviderTestUser">
+        <test-method signature="getAllUser(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:api.test.DataProviderTestUser@242b836]" started-at="2024-02-26T19:30:10 IST" name="getAllUser" data-provider="Data" finished-at="2024-02-26T19:30:14 IST" duration-ms="4125" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1000]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[TestUser1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Test]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[User1]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[TestUser1@abcd.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[test@123]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1234567890]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllUser -->
+        <test-method signature="getAllUser(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:api.test.DataProviderTestUser@242b836]" started-at="2024-02-26T19:30:14 IST" name="getAllUser" data-provider="Data" finished-at="2024-02-26T19:30:16 IST" duration-ms="2155" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1001]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[TestUser2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Test]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[User2]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[TestUser2@abcd.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[test@124]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1234567891]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllUser -->
+        <test-method signature="getAllUser(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:api.test.DataProviderTestUser@242b836]" started-at="2024-02-26T19:30:16 IST" name="getAllUser" data-provider="Data" finished-at="2024-02-26T19:30:18 IST" duration-ms="1858" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1002]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[TestUser3]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Test]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[User3]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[TestUser3@abcd.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[test@125]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1234567892]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllUser -->
+      </class> <!-- api.test.DataProviderTestUser -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
